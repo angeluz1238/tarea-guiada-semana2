@@ -7,5 +7,5 @@ funcionan usando comandos en la terminal, por eso es importante aprender a utili
 y confusion en los proyectos. Ademas, la terminal ayuda a trabajar mejor en equipo y aprender mas sobre programacion.
 Por eso considero que aprender a usar la terminal es algo importante para cualquier desarrollador.
 Tambien ayuda a entender mejor como funcionan los proyectos por dentro y tener mas control sobre los archivos.
-Aunque al principio puede parecer dificil, con la practica se vuelve una herramienta muy util para programar, es esencial aprenderse cada uno de los comandos
-y ya el trabajo es mas sencillo y rapido.
+Aunque al principio puede parecer dificil, con la practica se vuelve una herramienta muy util para programar,
+y aprender los comandos hace que el trabajo sea mas sencillo y rapido.
