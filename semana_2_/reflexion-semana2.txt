@@ -2,7 +2,10 @@
 
 Es importante que un desarrollador aprenda a usar la terminal porque ayuda a trabajar de una manera mas facil y organizada.
 Con la terminal se pueden crear y organizar archivos usando comandos, facilitando un poco mas el desarrollo de los proyectos.
-Tambien permite entrar a carpetas, mover archivos y ahorrar tiempo al trabajar. Muchas herramientas importantes como Git y Node.js
-funcionan usando comandos en la terminal, por eso es importante aprender a utilizarlas. Tener los archivos organizados ayuda a evitar errores 
-y confusion en los proyectos. Ademas, la terminal ayuda a trabajar mejor en equipo y aprender mas sobre programacion. 
+Tambien permite entrar a carpetas y ahorrar tiempo al trabajar. Muchas herramientas importantes como Git y Node.js
+funcionan usando comandos en la terminal, por eso es importante aprender a utilizarlas. Tener los archivos organizados ayuda a evitar errores
+y confusion en los proyectos. Ademas, la terminal ayuda a trabajar mejor en equipo y aprender mas sobre programacion.
 Por eso considero que aprender a usar la terminal es algo importante para cualquier desarrollador.
+Tambien ayuda a entender mejor como funcionan los proyectos por dentro y tener mas control sobre los archivos.
+Aunque al principio puede parecer dificil, con la practica se vuelve una herramienta muy util para programar, es esencial aprenderse cada uno de los comandos
+y ya el trabajo es mas sencillo y rapido.
